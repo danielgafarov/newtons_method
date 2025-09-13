@@ -29,7 +29,5 @@ int main() {
     {
         std::cout << error << std::endl;
     }
-    
-    std::cin.get();
     return 0;
 }
